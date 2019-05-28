@@ -10,12 +10,12 @@ namespace _8040_Ass1
     {
         private int length;
         private int width;
-        Rectangle()
+        public Rectangle()
         {
             length = 1;
             width = 1;
         }
-        Rectangle(int length,int width)
+        public Rectangle(int length,int width)
         {
             this.length = length;
             this.width = width;
@@ -25,17 +25,19 @@ namespace _8040_Ass1
         {
             return length;
         }
-        public void SetLength(int length)
+        public int SetLength(int length)
         {
             this.length = length;
+            return this.length;
         }
         public int GetWidth()
         {
             return width;
         }
-        public void SetWidth(int width)
+        public int SetWidth(int width)
         {
             this.width = width;
+            return this.width;
         }
         public int GetPerimeter()
         {
