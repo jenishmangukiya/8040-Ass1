@@ -1,0 +1,7 @@
+C:\Users\Jenish\source\repos\8040-Ass1\8040-Ass1\bin\Debug\8040-Ass1.exe.config
+C:\Users\Jenish\source\repos\8040-Ass1\8040-Ass1\bin\Debug\8040-Ass1.exe
+C:\Users\Jenish\source\repos\8040-Ass1\8040-Ass1\bin\Debug\8040-Ass1.pdb
+C:\Users\Jenish\source\repos\8040-Ass1\8040-Ass1\obj\Debug\8040-Ass1.csprojAssemblyReference.cache
+C:\Users\Jenish\source\repos\8040-Ass1\8040-Ass1\obj\Debug\8040-Ass1.csproj.CoreCompileInputs.cache
+C:\Users\Jenish\source\repos\8040-Ass1\8040-Ass1\obj\Debug\8040-Ass1.exe
+C:\Users\Jenish\source\repos\8040-Ass1\8040-Ass1\obj\Debug\8040-Ass1.pdb
